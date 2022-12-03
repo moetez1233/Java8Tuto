@@ -7,6 +7,11 @@ public class Person {
 		i++;
 		j=i;
 	}
+	@Override
+	public String toString() {
+		return "Person [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString()
+				+ "]";
+	}
 	
 	
 

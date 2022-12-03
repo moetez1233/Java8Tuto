@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class propramePrincipal {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	List<Person> people =getPeople();

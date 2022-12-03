@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Test {
 
 	public static void main(String[] args) {
+		TestStatic ex = new TestStatic();
 		ArrayList<Integer> nbrP=new ArrayList<>();
 		ArrayList<Integer> nbrPO=new ArrayList<>();
 		nbrP.add(1);
@@ -77,8 +78,7 @@ public class Test {
 		Person p3=p1;
 		System.out.println(p3.j+"et"+p3.i);
 	
-		
-		
+
 	}
 
 }
