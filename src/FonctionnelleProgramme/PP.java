@@ -33,6 +33,8 @@ boolean a=vs.testPredicate(5, i->i<10);
 
 
 
+
+
 System.out.println(y);
 System.out.println(z);
 System.out.println(m);

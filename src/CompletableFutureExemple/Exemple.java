@@ -14,6 +14,7 @@ public class Exemple {
 		try {
 			System.out.println(result.isDone());
 			System.out.println(result.get());
+			System.out.println(result.isDone());
 		}catch(Exception e) {
 			e.getMessage();
 		}
